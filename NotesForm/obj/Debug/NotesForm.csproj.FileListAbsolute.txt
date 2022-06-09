@@ -1,0 +1,10 @@
+G:\school\c-sharp-proj\NotesForm\NotesForm\bin\Debug\NotesForm.exe.config
+G:\school\c-sharp-proj\NotesForm\NotesForm\bin\Debug\NotesForm.exe
+G:\school\c-sharp-proj\NotesForm\NotesForm\bin\Debug\NotesForm.pdb
+G:\school\c-sharp-proj\NotesForm\NotesForm\obj\Debug\NotesForm.csproj.AssemblyReference.cache
+G:\school\c-sharp-proj\NotesForm\NotesForm\obj\Debug\NotesForm.Form1.resources
+G:\school\c-sharp-proj\NotesForm\NotesForm\obj\Debug\NotesForm.Properties.Resources.resources
+G:\school\c-sharp-proj\NotesForm\NotesForm\obj\Debug\NotesForm.csproj.GenerateResource.cache
+G:\school\c-sharp-proj\NotesForm\NotesForm\obj\Debug\NotesForm.csproj.CoreCompileInputs.cache
+G:\school\c-sharp-proj\NotesForm\NotesForm\obj\Debug\NotesForm.exe
+G:\school\c-sharp-proj\NotesForm\NotesForm\obj\Debug\NotesForm.pdb
